@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <!-- JobNexa AI Logo (Dark background variant) -->
+    <!-- Globe Orbit Meridian Arc -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#4C91FF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M12,24 C12,30.6 17.4,36 24,36 C30.6,36 36,30.6 36,24" />
+    
+    <!-- Outer Orbit Ring -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#3A6ECC"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:pathData="M24,12 C17.4,12 12,17.4 12,24" />
+
+    <!-- Forward Mobility Arrow Vector (#54D9F5) -->
+    <path
+        android:fillColor="#54D9F5"
+        android:pathData="M16,30 L26,20 L23,19.5 L34,13 L32,23 L29,20.5 L20,32 Z" />
+
+    <path
+        android:fillColor="#54D9F5"
+        android:pathData="M27,11 L37,11 L37,21 L34,18 L30,15 Z" />
+
+    <!-- AI Spark Accent (White) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M37,9 L38,11.5 L40.5,12.5 L38,13.5 L37,16 L36,13.5 L33.5,12.5 L36,11.5 Z" />
+</vector>

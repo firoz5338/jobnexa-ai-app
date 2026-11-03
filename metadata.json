@@ -1,0 +1,6 @@
+{
+  "name": "JobNexa AI",
+  "description": "JobNexa AI — Your AI Agent for Global Jobs. International job discovery and work visa assistance platform for Europe and Gulf countries with AI matching, immigration checks, and application management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

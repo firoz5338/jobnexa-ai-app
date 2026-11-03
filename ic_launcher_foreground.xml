@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- JobNexa AI — Global Navigation Symbol + Forward Career Vector + AI Spark -->
+    <!-- Centered strictly inside 66dp safe zone (canvas 108x108, center 54, 54) -->
+    <group
+        android:pivotX="54"
+        android:pivotY="54">
+        
+        <!-- Outer Global Orbit / Meridian Arc (AI Blue #4C91FF) -->
+        <path
+            android:fillColor="#00000000"
+            android:strokeColor="#4C91FF"
+            android:strokeWidth="3.2"
+            android:strokeLineCap="round"
+            android:pathData="M34,42 C28,52 30,66 40,74 C50,82 66,80 74,70" />
+            
+        <path
+            android:fillColor="#00000000"
+            android:strokeColor="#3A6ECC"
+            android:strokeWidth="2.2"
+            android:strokeLineCap="round"
+            android:pathData="M44,30 C38,34 33,40 31,48" />
+
+        <!-- Planetary Latitudinal Grid Arc -->
+        <path
+            android:fillColor="#00000000"
+            android:strokeColor="#4C91FF"
+            android:strokeAlpha="0.6"
+            android:strokeWidth="2"
+            android:strokeLineCap="round"
+            android:pathData="M32,56 C42,64 66,64 76,56" />
+
+        <!-- Forward Mobility Vector / Arrow (Electric Cyan #54D9F5) -->
+        <path
+            android:fillColor="#54D9F5"
+            android:pathData="M42,66 L58,50 L53,49 L68,36 L66,52 L61,47 L47,69 Z" />
+
+        <!-- Dynamic Arrow Head Accent -->
+        <path
+            android:fillColor="#54D9F5"
+            android:pathData="M56,33 L75,33 L75,52 L70,47 L65,42 Z" />
+
+        <!-- AI Spark / North Star Beacon (Electric Cyan & White) -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M75,29 L76.5,33.5 L81,35 L76.5,36.5 L75,41 L73.5,36.5 L69,35 L73.5,33.5 Z" />
+    </group>
+</vector>
